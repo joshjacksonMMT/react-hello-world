@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+
+.App 
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100%;
+
+  background: #55E6C1;
+  color: #2C3A47;
+
+  font-family: 'Shrikhand', sans-serif;
+  letter-spacing: 2px;
+}
